@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StateChangeProject</string>
+    <string name="btnText">Change Text</string>
+    <string name="secondText">أهلاً بالعالم</string>
+    <string name="thirdText">Salut le Monde!</string>
+    <string name="fourthText">반갑다 세상아</string>
+</resources>
